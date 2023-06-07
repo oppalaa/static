@@ -1,14 +1,14 @@
 img
 {
-    height:100px;
-    width:150px;
+    height: 500px;
+    width:450px;
 }
 body
 {
     background-color: black;
 }
 h1
-{  background:linear-gradient(360deg,yellow,red,pink,blue,orange,black,white,brown);
+{  background:radial-gradient(circle,yellow,red,pink,blue,orange,black,white,brown);
    animation: nvn 2s 1s infinite forwards linear;
    color:ghostwhite;
    text-align: center;
